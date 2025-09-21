@@ -2,6 +2,7 @@
 **A C/C++ Lover  || Second Year Student  || AI-ML Person**<img align="right" width="400" height="400" alt="coding" src="https://github.com/user-attachments/assets/3c451ddc-e79c-48b8-a6e5-3194b3887d6a" />
 <br>
 
+
 Email Me 👉 ✉️ **anshgoyal15032007@gmail.com**<br>
 ---> For Collaboration/Project or Anything Else. 😊😊
 
@@ -21,7 +22,11 @@ Email Me 👉 ✉️ **anshgoyal15032007@gmail.com**<br>
 
 
 
+<!-- Snake Game Repo View -->
 
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 
 
