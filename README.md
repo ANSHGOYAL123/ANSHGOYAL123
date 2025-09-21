@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Ansh Goyal
-**A C/C++ Lover  || Second Year Student  || AI-ML Person**<img align="right" width="400" height="400" alt="coding" src="https://github.com/user-attachments/assets/3c451ddc-e79c-48b8-a6e5-3194b3887d6a" />
-<br>
+**A C/C++ Lover  || Second Year Student  || AI-ML Person**
 
+<img src="https://github.com/user-attachments/assets/3c451ddc-e79c-48b8-a6e5-3194b3887d6a" alt="coding" width="400" height="400" align="right" />
 
 Email Me 👉 ✉️ **anshgoyal15032007@gmail.com**<br>
 ---> For Collaboration/Project or Anything Else. 😊😊
@@ -48,6 +48,8 @@ Email Me 👉 ✉️ **anshgoyal15032007@gmail.com**<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ANSHGOYAL123&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <br>
 
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ANSHGOYAL123&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
@@ -60,8 +62,3 @@ Email Me 👉 ✉️ **anshgoyal15032007@gmail.com**<br>
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ANSHGOYAL123&limit=5&theme=vue&combine_all_yearly_contributions=true)
 
-<br>
-
-[![](https://visitcount.itsvg.in/api?id=ANSHGOYAL123&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
