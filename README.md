@@ -9,6 +9,21 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/c4f56554-bdf9-494f-afea-865edf944dd6" /> ">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/k_ansh_goyal) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anshgoyal15032007) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/k_ansh_goyal) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anshgoyal15032007@gmail.com) 
